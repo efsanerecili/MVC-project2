@@ -1,0 +1,14 @@
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\bin\Debug\net8.0\mvc_core.deps.json
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\bin\Debug\net8.0\mvc_core.runtimeconfig.json
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\bin\Debug\net8.0\mvc_core.dll
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\bin\Debug\net8.0\mvc_core.pdb
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\obj\Debug\net8.0\mvc_core.csproj.AssemblyReference.cache
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\obj\Debug\net8.0\mvc_core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\obj\Debug\net8.0\mvc_core.AssemblyInfoInputs.cache
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\obj\Debug\net8.0\mvc_core.AssemblyInfo.cs
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\obj\Debug\net8.0\mvc_core.csproj.CoreCompileInputs.cache
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\obj\Debug\net8.0\mvc_core.dll
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\obj\Debug\net8.0\refint\mvc_core.dll
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\obj\Debug\net8.0\mvc_core.pdb
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\obj\Debug\net8.0\mvc_core.genruntimeconfig.cache
+C:\Users\rcili\source\repos\MVC-Project2\mvc_core\obj\Debug\net8.0\ref\mvc_core.dll
